@@ -1,4 +1,3 @@
-//Treinadores
 id,primeiroNome,segundoNome,idade,pais
 1,Nuno,Dias,49,Portugal
 2,João,Pinto,53,Portugal
@@ -12,9 +11,6 @@ id,primeiroNome,segundoNome,idade,pais
 10,Pedro,Moreira,44,Portugal
 11,Henrique,Passos,60,Portugal
 12,André,Martins,40,Portugal
-
-
-//Jogadores Sporting
 13,Gonçalo,Portugal,30,Portugal
 14,Guita, ,35,Portugal
 15,Bernardo,Paçó,22,Portugal
@@ -31,9 +27,6 @@ id,primeiroNome,segundoNome,idade,pais
 26,Zicky,Té,21,Portugal
 27,Hugo,Neves,22,Portugal
 28,Esteban,Guerrero,27,Espanha
-
-//Jogadores Elétrico
-
 29,João,Silva,30,Portugal
 30,Diogo,Basílio,26,Portugal
 31,Ferrugem, ,34,Brasil
@@ -48,10 +41,6 @@ id,primeiroNome,segundoNome,idade,pais
 40,Thiago,Cruz,27,Portugal
 41,John,Lennon,28,Brasil
 42,Simi,Saiotti,35,Geórgia
-
-
-//Jogadores Ferreira
-
 43,Jorge,Mata,20,Portugal
 44,Nilton, ,24,São Tomé e Príncipe
 45,Guilherme,Oliveira,22,Brasil
@@ -67,8 +56,6 @@ id,primeiroNome,segundoNome,idade,pais
 55,Fábio,Mota,25,Portugal
 56,Romário, ,33,Brasil
 57,Xisto, ,30,Brasil
-
-//Jogadores Benfica
 58,Martim,Figueira,22,Portugal
 59,André,Sousa,36,Portugal
 60,Léo,Gugiel,26,Brasil
@@ -88,8 +75,6 @@ id,primeiroNome,segundoNome,idade,pais
 74,Higor,de Souza,24,Brasil
 75,Rocha, ,27,Brasil
 76,Jacaré, ,23,Brasil
-
-//Jogadores Leoes Porto Salvo
 77,André,Correia,24,Portugal
 78,Pedro,Martinho,21,Portugal
 79,Tiago,Ferreira,18,Portugal
@@ -140,178 +125,101 @@ id,primeiroNome,segundoNome,idade,pais
 124,Allan,Guilherme,23,Brasil
 125,Rodrigo,Rego,19,Portugal
 126,Jean,Gaúcho,27,Brasil
-
-127,Bruno,Minear,30,Russia
-128,Spike,Challens,31,China
-129,Egbert,Playle,24,Philippines
-130,Milo,Dibley,34,China
-131,Julius,Trodd,22,Indonesia
-132,Esme,Burcher,19,Guatemala
-133,Abner,Newlands,39,China
-134,Joshuah,Rantoul,30,France
-135,Hebert,Rabl,20,France
-136,Shell,Outibridge,40,China
-137,Jervis,Hexam,22,Indonesia
-138,Reuven,D'eye,38,Philippines
-139,Alistair,Dmitrienko,25,Hong Kong
-140,Emmy,Cressy,20,China
-141,Klemens,Rodinger,24,China
-142,Mohammed,Stolworthy,18,China
-143,Dimitry,Vlasyuk,40,China
-144,Chrisse,Aslam,28,China
-145,Hamlin,McManus,18,Sweden
-146,Kinnie,Vanshin,26,Yemen
-147,Wang,Pedersen,35,Iran
-148,Duane,Dowsing,40,Norway
-149,Aharon,Gerbel,25,Indonesia
-150,Adolphe,Markson,40,China
-151,Westleigh,Wildor,25,Portugal
-152,Rafael,Labrone,34,Ukraine
-153,Creighton,Deighan,21,Nicaragua
-154,Derrik,Pamplin,37,China
-155,Dur,Mechem,25,Poland
-156,Arvy,Haps,20,Poland
-157,Odell,Coultard,30,Portugal
-158,Welby,Lackey,26,Mauritius
-159,Lombard,Friedman,26,Mexico
-160,Thom,Peplaw,31,Norway
-161,Darnall,Sloat,25,Russia
-162,Traver,Whiteford,29,China
-163,Penny,Carl,26,Antigua and Barbuda
-164,Vinson,Danson,34,Poland
-165,Vin,Mayers,33,Philippines
-166,Theodore,Bentje,36,Panama
-167,Gil,Balnaves,18,Russia
-168,Jeremie,Wapples,26,Greece
-169,Benjy,Moresby,17,Philippines
-170,Granger,Aubury,32,Indonesia
-171,Herve,Kepling,29,Mexico
-172,Karoly,Nowick,31,China
-173,Alphonso,Russan,39,Indonesia
-174,Pincas,Crafts,37,Greece
-175,Pall,Mellon,22,Niger
-176,Wolfy,Di Biagio,28,United States
-177,Sinclare,Newick,35,China
-178,Delbert,Durtnall,25,Poland
-179,Domingo,Burbury,37,Andorra
-180,Delmar,Barsam,19,Sri Lanka
-181,Jarad,Copin,37,Malaysia
-182,Jeramey,Burgyn,21,French Polynesia
-183,Sylas,Jirasek,29,Mexico
-184,Rickert,Botright,21,Indonesia
-185,Elliot,Beazey,19,Cuba
-186,Armand,Bradshaw,21,Brazil
-187,Lonnie,Shekle,39,Mali
-188,Vinnie,Vanyarkin,35,Brazil
-189,Goraud,Cornock,21,Czech Republic
-190,Abdel,Mallebone,34,United States
-191,Lothario,Matteoni,35,Russia
-192,Prince,Woollin,25,Nigeria
-193,Jeremie,Rogeon,28,Argentina
-194,Haroun,Lathbury,38,Portugal
-195,Averill,Leming,28,China
-196,Baron,Flag,36,India
-197,Creigh,Minget,26,Japan
-198,Lewie,Goldberg,26,Russia
-199,Hamish,Mansel,39,Indonesia
-200,Salem,Tames,36,Portugal
-201,Dolf,Songust,19,China
-202,Massimo,Nuzzetti,37,China
-203,Isidor,Keeling,20,Haiti
-204,Mata,Ionesco,27,Afghanistan
-205,Clair,McGillicuddy,28,China
-206,Osgood,Carnow,19,Philippines
-207,Frederico,Aveson,24,China
-208,Roley,Ivamy,39,Philippines
-209,Koenraad,Lodemann,34,Chile
-210,Darill,Gookey,28,Luxembourg
-211,Jabez,Bimson,23,Afghanistan
-212,Fergus,Norcock,35,Brazil
-213,Cal,De Bell,29,Japan
-214,Obie,Coning,25,Pakistan
-215,Gabby,Depport,21,Spain
-216,Silvester,Mathews,17,Slovenia
-217,Sascha,Boylan,29,France
-218,Shannon,Moir,34,Taiwan
-219,Prescott,Caudray,39,Poland
-220,Ludvig,Epp,19,Italy
-221,Fielding,Itter,29,Russia
-222,Artemas,Shekle,26,Thailand
-223,Bert,Zotto,35,Portugal
-224,Guss,O'Shaughnessy,30,Namibia
-225,Matteo,Gilbart,24,China
-226,Purcell,Pharoah,18,Indonesia
-227,Even,Ewen,40,Iran
-228,Duncan,Bentke,23,Indonesia
-229,Ellary,Malpas,36,Czech Republic
-230,Shalom,Florentine,20,Chile
-231,Kalvin,Guerro,37,China
-232,Augusto,Boate,33,Colombia
-233,Nickie,Birkhead,28,Portugal
-234,Giffard,Hrachovec,34,Sweden
-235,Worthy,Narramore,20,Palestinian Territory
-236,Alfie,Jackalin,37,China
-237,Hobey,Stillwell,29,China
-238,Lewes,Reoch,25,Brazil
-239,Erl,Meininking,25,Philippines
-240,Tymon,Blowin,23,Philippines
-241,Huey,Von Oertzen,29,Czech Republic
-242,Fredek,Nouch,40,Pakistan
-243,Hillery,Amoore,22,Philippines
-244,Huntington,Rosenschein,36,Ukraine
-245,Jonah,Stalley,32,Samoa
-246,Hilly,Taks,21,China
-247,Brit,Collin,18,Ukraine
-248,Ewell,Bigrigg,19,Slovenia
-249,Claudell,Conniam,34,Panama
-250,Delmore,Trevithick,18,United States
-251,Giordano,Rendle,20,Portugal
-252,Clementius,O'Bradain,36,Brazil
-253,Cleavland,Paggitt,26,China
-254,Arnie,Bucklan,17,China
-255,Christophorus,Linzee,22,China
-256,Kip,Shearsby,40,Brazil
-257,Waldon,Overell,20,Venezuela
-258,Gearard,Cisneros,34,Portugal
-259,Scott,O'Corrigane,35,Honduras
-260,Wendel,Beech,33,China
-261,Skell,Davidoff,25,Russia
-262,Ermanno,Tromans,35,Brazil
-263,Bron,Bassill,21,Greece
-264,Abdul,Channer,35,Bosnia and Herzegovina
-265,Richmound,Kinchin,39,Indonesia
-266,Roley,Avory,30,Philippines
-267,Pauly,Bhar,36,Canada
-268,Munroe,Sigfrid,29,Poland
-269,Giorgi,Julian,32,Nigeria
-270,Alvie,Kondratyuk,33,Malta
-271,Lyon,Emmanueli,26,Indonesia
-272,Reinald,Huntington,23,China
-273,Tate,Runnacles,32,Indonesia
-274,Claudianus,Fitzsimmons,32,Brazil
-275,Ives,Pawelski,23,Indonesia
-276,Padraig,Townley,32,Vietnam
-277,Rip,Boughton,19,China
-278,Terencio,Cockton,19,New Caledonia
-279,Bryanty,Thurske,17,China
-280,Orville,Gresswell,28,United States
-281,Monro,Regglar,28,Indonesia
-282,Silvano,Micklewicz,20,China
-283,Hewe,McDowall,32,Peru
-284,Cedric,Boost,31,Brazil
-285,Christiano,Roderighi,18,Brazil
-286,Georges,Verissimo,23,Czech Republic
-287,Barde,Chipping,17,Indonesia
-288,Efrem,Carver,23,Egypt
-289,Haydon,Brayfield,27,Indonesia
-290,Chaddie,Gideon,19,Japan
-291,Caesar,Flowers,31,Guatemala
-292,Costa,McGeachey,17,Indonesia
-293,Cob,Pastor,27,Brazil
-294,Noach,Huckle,31,Poland
-295,Elden,Blackbrough,17,Indonesia
-296,Murdock,Matussevich,26,China
-297,Haley,Gowers,36,Poland
-298,Rustie,Bodicam,32,Israel
-299,Dickie,Bertholin,33,Venezuela
-300,Titos,Feron,34,Portugal
+127,Bruno,Felipe,23,Brasil
+128,Leonardo,Santos,18,Portugal
+129,Pedro,Ferreira,20,Portugal
+130,Tiago,Sacramento,33,Portugal
+131,Raúl,Moreira,19,Portugal
+132,Romada,Pereira,25,Brasil
+133,Gustavo,Rodrigues,22,Portugal
+134,Bruninho,Carvalho,25,Portugal
+135,Zézinho,Carvalh,20,Portugal
+136,Ricardo,Marques,18,Portugal
+137,Rúben,Teixeira,19,Portugal
+138,Manuel,Campos,17,Portugal
+139,Sévio,Marcelo,21,Portugal
+140,Rodrigo,Simão,19,Portugal
+141,Felipe,Leite,28,Brasil
+142,Carlos,Esperança,38,Portugal
+143,Cássio,Coelho,34,Brasil
+144,Juan,Pinheiro,22,Brasil
+145,Alexandre,Rodrigues,18,Portugal
+146,Deividi,Bassani,32,Brasil
+147,Uesler,Schäfer,29,Brasil
+148,Thalles,Flauzino,23,Brasil
+149,Zezinho,Domingos,19,Portugal
+150,Rui,Moreira,21,Portugal
+151,Rafael,Freire,19,Portugal
+152,Edmilson,Kutchy,20,Portugal
+153,Bebé,Cunha,24,Portugal
+154,Mário,Freitas,32,Portugal
+155,Rafael,Semedo,20,Portugal
+156,Israel,Neto,23,Brasil
+157,Iury,Bahia,24,Portugal
+158,Bruno,Marques,26,Portugal
+159,Pedro,Bifana,18,Portugal
+160,Alê,Falcone,32,Brasil
+161,Coelho,Marins,34,Portugal
+162,Paulinho,Rocha,32,Portugal
+163,Renan,Fuzo,34,Brasil
+164,Davide,Almeida,24,Portugal
+165,Ruben,Santos,18,Portugal
+166,Alexandre,Velhinho,23,Portugal
+167,Sérgio,Ribeiro,20,Portugal
+168,Alan,Gitahy,26,Brasil
+169,Fábio,Semedo,25,Portugal
+170,André,Sasse,25,Brasil
+171,Alesandro,Almeida,26,Portugal
+172,Rafa,Stocker,25,Brasil
+173,Ludgero,Lopes,25,Portugal
+174,Sandro,Barradas,43,Portugal
+175,João,Freitas,21,Portugal
+176,Luciano,Silva,44,Portugal
+177,Henrique,Antunes,30,Portugal
+178,Vítor,Hugo,34,Brasil
+179,Diogo,Teixeira,20,Portugal
+180,Pedro,Filipe,21,Portugal
+181,Óscar,Santos,29,Portugal
+182,Luís,Peixoto,20,Portugal
+183,Rui,Oliveira,17,Portugal
+184,João,Lopes,28,Portugal
+185,Márcio,Moreira,32,Portugal
+186,Hélder,Cristiano,34,Portugal
+187,César,Abreu,32,Portugal
+188,Rui,Pereira,19,Portugal
+189,João,Rodrigues,20,Portugal
+190,Amílcar,Gomes,36,Portugal
+191,Vini,Flores,37,Brasil
+192,João,Vigário,32,Portugal
+193,Rafael,Santos,21,Brasil
+194,Rufus,Costa,22,Portugal
+195,Rodrigo,Almeida,17,Portugal
+196,Leandro,Rodrigues,20,Portugal
+197,João,Morais,21,Portugal
+198,Hugo,Silva,36,Portugal
+199,Fábio,Pires,18,Portugal
+200,Leandro,Ribeiro,16,Portugal
+201,João,Couto,23,Portugal
+202,Agustín,Pais,22,Argentina
+203,Nuno,Fernandes,18,Portugal
+204,Miguel,Leal,24,Portugal
+205,Ariel,Pais,22,Argentina
+206,Miguel,Costa,19,Portugal
+207,Ricardo,Costa,20,Portugal
+208,Sílvio,Moreira,26,Portugal
+209,Alexandre,Costa,34,Portugal
+210,Andre,Franco,36,Portugal
+211,Bruno,Araújo,29,Portugal
+212,Cristiano,Santos,35,Portugal
+213,David,Martins,36,Portugal
+214,Eduardo,Coelho,33,Portugal
+215,Filipe,Duarte,36,Portugal
+216,João,Sinval,32,Portugal
+217,José,Gomes,37,Portugal
+218,José,Moreira,34,Portugal
+219,Mauricio,Couto,39,Portugal
+220,Pedro,Costa,35,Portugal
+221,Ricardo,Fernandes,29,Portugal
+222,Ruben,Santos,36,Portugal
+223,Rui,Ventura,35,Portugal
+224,Toni,Pereira,30,Portugal

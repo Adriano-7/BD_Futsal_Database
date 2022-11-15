@@ -1,0 +1,183 @@
+idJogo,data,golosMarcadosVisitada,golosMarcadosVisitante,nomeEquipaVisitada,resultado,nomeEquipaVisitante,numeroJornada,fasePlayOff,arbitro
+1,09/10,3,1,Quinta dos Lombos,3-1,SC Braga/AAUM,1,,209
+2,09/10,2,0,CR Candoso/Natcal,2-0,Modicus Cartest,1,,210
+3,09/10,1,2,FC Azeméis by Noxae,1-2,AD Fundão,1,,211
+4,10/10,0,3,Viseu 2001/Palácio do Gelo,0-3,Eléctrico,1,212
+5,10/10,4,0,Sporting,4-0,Nun´Álvares,1,213
+6,10/10,4,0,Benfica,4-0,Leões Porto Salvo,1,214
+7,10/10,5,3,Torreense,5-3,Portimonense,1,215
+8,15/10,5,1,SC Braga/AAUM,5-1,Viseu 2001/Palácio do Gelo,2,216
+9,16/10,3,1,Electrico,3-1,Benfica,2,217
+10,16/10,5,3,AD Fundão,5-3,Torreense,2,218
+11,16/10,5,2,Portimonense,5-2,CR Candoso/Natcal,2,219
+12,16/10,0,2,Nun´Álvares,0-2,Quinta dos Lombos,2,220
+13,16/10,0,3,Modicus Cartest,0-3,Sporting,2,221
+14,16/10,1,2,Leões Porto Salvo,1-2,FC Azeméis by Noxae,2,222
+15,20/10,4,1,Sporting,4-1,Portimonense,3,223
+16,20/10,5,4,Quinta dos Lombos,5-4,Viseu 2001/Palácio do Gelo,3,224
+17,20/10,3,1,Benfica,3-1,SC Braga/AAUM,3,209
+18,20/10,2,1,FC Azeméis by Noxae,2-1,Eléctrico,3,210
+19,20/10,2,3,CR Candoso/Natcal,2-3,AD Fundão,3,211
+20,20/10,1,0,Torreense,1-0,Leões Porto Salvo,3,212
+21,20/10,1,3,Nun´Álvares,1-3,Modicus Cartest,3,213
+22,23/10,4,2,AD Fundão,4-2,Sporting,4,214
+23,23/10,2,4,SC Braga/AAUM,2-4,FC Azeméis by Noxae,4,215
+24,23/10,0,5,Viseu 2001/Palácio do Gelo,0-5,Benfica,4,216
+25,23/10,7,4,Modicus Cartest,7-4,Quinta dos Lombos,4,217
+26,23/10,4,4,Leões Porto Salvo,4-4,CR Candoso/Natcal,4,218
+27,24/10,4,2,Eléctrico,4-2,Torreense,4,219
+28,24/10,7,0,Portimonense,7-0,Nun´Álvares,4,220
+29,30/10,1,1,CR Candoso/Natcal,1-1,Eléctrico,5,221
+30,30/10,4,5,Torreense,4-5,SC Braga/AAUM,5,222
+31,30/10,1,2,Nun´Álvares,1-2,AD Fundão,5,223
+32,30/10,2,2,Modicus Cartest,2-2,Portimonense,5,224
+33,01/11,3,3,FC Azeméis by Noxae,3-3,Viseu 2001/Palácio do Gelo,5,209
+34,03/11,2,3,Quinta dos Lombos,2-3,Benfica,5,210
+35,09/03,4,2,Sporting,4-2,Leões Porto Salvo,5,211
+36,06/11,5,1,Benfica,5-1,FC Azeméis by Noxae,6,212
+37,06/11,3,2,AD Fundão,3-2,Modicus Cartest,6,213
+38,06/11,1,1,Portimonense,1-1,Quinta dos Lombos,6,214
+39,06/11,1,3,SC Braga/AAUM,1-3,CR Candoso/Natcal,6,215
+40,06/11,1,4,Eléctrico,1-4,Sporting,6,216
+41,06/11,5,3,Viseu 2001/Palácio do Gelo,5-3,Torreense,6,217
+42,06/11,6,2,Leões Porto Salvo,6-2,Nun´Álvares,6,218
+43,10/11,4,6,Portimonense,4-6,AD Fundão,7,219
+44,10/11,2,6,Quinta dos Lombos,2-6,FC Azeméis by Noxae,7,220
+45,10/11,4,5,Modicus Cartest,4-5,Leões Porto Salvo,7,221
+46,10/11,2,0,CR Candoso/Natcal,2-0,Viseu 2001/Palácio do Gelo,7,222
+47,10/11,2,5,Nun´Álvares,2-5,Eléctrico,7,223
+48,10/11,2,1,Sporting,2-1,SC Braga/AAUM,7,224
+49,10/11,0,3,Torreense,0-3,Benfica,7,209
+50,13/11,4,5,AD Fundão,4-5,Quinta dos Lombos,8,210
+51,13/11,3,2,Eléctrico,3-2,Modicus Cartest,8,211
+52,13/11,3,1,FC Azeméis by Noxae,3-1,Torreense,8,212
+53,13/11,3,6,Viseu 2001/Palácio do Gelo,3-6,Sporting,8,213
+54,13/11,9,1,SC Braga/AAUM,9-1,Nun´Álvares,8,214
+55,13/11,5,1,Benfica,5-1,CR Candoso/Natcal,8,215
+56,13/11,4,1,Leões Porto Salvo,4-1,Portimonense,8,216
+57,20/11,3,2,Nun´Álvares,3-2,Viseu 2001/Palácio do Gelo,9,217
+58,20/11,5,4,CR Candoso/Natcal,5-4,FC Azeméis by Noxae,9,218
+59,20/11,3,5,Portimonense,3-5,Eléctrico,9,219
+60,20/11,3,3,AD Fundão,3-3,Leões Porto Salvo,9,220
+61,20/11,7,1,Quinta dos Lombos,7-1,Torreense,9,221
+62,21/11,0,4,Modicus Cartest,0-4,SC Braga/AAUM,9,222
+63,21/11,5,2,Sporting,5-2,Benfica,9,223
+64,27/11,1,8,FC Azeméis by Noxae,1-8,Sporting,10,224
+65,27/11,6,6,SC Braga/AAUM,6-6,Portimonense,10,209
+66,27/11,3,2,Eléctrico,3-2,AD Fundão,10,210
+67,27/11,7,1,Benfica,7-1,Nun´Álvares,10,211
+68,27/11,2,2,Torreense,2-2,CR Candoso/Natcal,10,212
+69,28/11,4,3,Viseu 2001/Palácio do Gelo,4-3,Modicus Cartest,10,213
+70,29/11,3,5,Leões Porto Salvo,3-5,Quinta dos Lombos,10,214
+71,24/11,9,2,Sporting,9-2,Torreense,11,215
+72,04/12,3,3,Quinta dos Lombos,3-3,CR Candoso/Natcal,11,216
+73,04/12,2,5,Nun´Álvares,2-5,FC Azeméis by Noxae,11,217
+74,04/12,3,7,Portimonense,3-7,Viseu 2001/Palácio do Gelo,11,218
+75,04/12,7,5,AD Fundão,7-5,SC Braga/AAUM,11,219
+76,22/12,5,2,Leões Porto Salvo,5-2,Eléctrico,11,220
+77,22/12,1,2,Modicus Cartest,1-2,Benfica,11,221
+78,08/12,6,3,Quinta dos Lombos,6-3,Eléctrico,12,222
+79,08/12,2,3,CR Candoso/Natcal,2-3,Sporting,12,223
+80,08/12,4,2,Viseu 2001/Palácio do Gelo,4-2,AD Fundão,12,224
+81,08/12,5,5,Benfica,5-5,Portimonense,12,209
+82,08/12,6,3,SC Braga/AAUM,6-3,Leões Porto Salvo,12,210
+83,08/12,1,0,Torreense,1-0,Nun´Álvares,12,211
+84,08/12,3,1,FC Azeméis by Noxae,3-1,Modicus Cartest,12,212
+85,12/12,1,3,AD Fundão,1-3,Benfica,13,213
+86,12/12,2,1,Sporting,2-1,Quinta dos Lombos,13,214
+87,12/12,2,2,Nun´Álvares,2-2,CR Candoso/Natcal,13,215
+88,12/12,4,4,Leões Porto Salvo,4-4,Viseu 2001/Palácio do Gelo,13,216
+89,12/12,3,4,Eléctrico,3-4,SC Braga/AAUM,13,217
+90,12/12,4,2,Modicus Cartest,4-2,Torreense,13,218
+91,12/12,6,2,Portimonense,6-2,FC Azeméis by Noxae,13,219
+92,18/12,4,1,Eléctrico,4-1,Viseu 2001/Palácio do Gelo,14,220
+93,22/12,2,1,AD Fundão,2-1,FC Azeméis by Noxae,14,221
+94,23/12,1,5,Nun´Álvares,1-5,Sporting,14,222
+95,26/12,3,2,Portimonense,3-2,Torreense,14,223
+96,27/12,1,3,Modicus Cartest,1-3,CR Candoso/Natcal,14,224
+97,15/02,3,3,Leões Porto Salvo,3-3,Benfica,14,209
+98,16/02,2,3,SC Braga/AAUM,2-3,Quinta dos Lombos,14,210
+99,02/01,3,3,CR Candoso/Natcal,3-3,Portimonense,15,211
+100,02/01,3,4,FC Azeméis by Noxae,3-4,Leões Porto Salvo,15,212
+101,02/01,6,0,Sporting,6-0,Modicus Cartest,15,213
+102,02/01,5,4,Benfica,5-3,Eléctrico,15,214
+103,05/02,2,5,Quinta dos Lombos,2-5,Nun´Álvares,15,215
+104,05/02,4,7,Torreense,4-7,AD Fundão,15,216
+105,23/03,2,4,Viseu 2001/Palácio do Gelo,2-4,SC Braga/AAUM,15,217
+106,19/02,1,2,Portimonense,1-2,Sporting,16,218
+107,19/02,3,1,Viseu 2001/Palácio do Gelo,3-1,Quinta dos Lombos,16,219
+108,19/02,8,1,Eléctrico,8-1,FC Azeméis by Noxae,16,220
+109,19/02,6,4,AD Fundão,6-4,CR Candoso/Natcal,16,221
+110,19/02,2,5,SC Braga/AAUM,2-5,Benfica,16,222
+111,19/02,1,0,Modicus Cartest,1-0,Nun´Álvares,16,223
+112,19/02,2,4,Leões Porto Salvo,2-4,Torreense,16,224
+113,05/03,4,2,Nun´Álvares,4-2,Portimonense,17,209
+114,05/03,2,2,CR Candoso/Natcal,2-2,Leões Porto Salvo,17,210
+115,05/03,3,6,Quinta dos Lombos,3-6,Modicus Cartest,17,211
+116,05/03,6,3,Sporting,6-3,AD Fundão,17,212
+117,05/03,6,1,Benfica,6-1,Viseu 2001/Palácio do Gelo,17,213
+118,06/03,1,3,Torreense,1-3,Eléctrico,17,214
+119,30/03,2,3,FC Azeméis by Noxae,2-3,SC Braga/AAUM,17,215
+120,03/11,1,5,Leões Porto Salvo,1-5,Sporting,18,216
+121,09/03,2,0,Portimonense,2-0,Modicus Cartest,18,217
+122,09/03,3,2,SC Braga/AAUM,3-2,Torreense,18,218
+123,09/03,4,2,Benfica,4-2,Quinta dos Lombos,18,219
+124,09/03,6,1,Eléctrico,6-1,CR Candoso/Natcal,18,220
+125,09/03,1,1,AD Fundão,1-1,Nun´Álvares,18,221
+126,09/03,1,5,Viseu 2001/Palácio do Gelo,1-5,FC Azeméis by Noxae,18,222
+127,12/03,3,2,Quinta dos Lombos,3-2,Portimonense,19,223
+128,13/03,1,5,FC Azeméis by Noxae,1-5,Benfica,19,224
+129,13/03,5,1,Nun´Álvares,5-1,Leões Porto Salvo,19,209
+130,13/03,3,5,Torreense,3-5,Viseu 2001/Palácio do Gelo,19,210
+131,13/03,1,6,CR Candoso/Natcal,1-6,SC Braga/AAUM,19,211
+132,13/03,5,0,Sporting,5-0,Eléctrico,19,212
+133,23/03,1,5,Modicus Cartest,1-5,AD Fundão,19,213
+134,26/03,6,2,Eléctrico,6-2,Nun´Álvares,20,214
+135,26/03,1,8,SC Braga/AAUM,1-8,Sporting,20,215
+136,26/03,0,3,FC Azeméis by Noxae,0-3,Quinta dos Lombos,20,216
+137,26/03,3,4,AD Fundão,3-4,Portimonense,20,217
+138,26/03,1,1,Leões Porto Salvo,1-1,Modicus Cartest,20,218
+139,26/03,2,1,Benfica,2-1,Torreense,20,219
+140,27/03,2,2,Viseu 2001/Palácio do Gelo,2-2,CR Candoso/Natcal,20,220
+141,02/04,3,6,CR Candoso/Natcal,3-6,Benfica,21,221
+142,02/04,0,6,Modicus Cartest,0-6,Eléctrico,21,222
+143,02/04,1,4,Portimonense,1-4,Leões Porto Salvo,21,223
+144,02/04,8,1,Sporting,8-1,Viseu 2001/Palácio do Gelo,21,224
+145,02/04,3,4,Quinta dos Lombos,3-4,AD Fundão,21,209
+146,02/04,4,4,Nun´Álvares,4-4,SC Braga/AAUM,21,210
+147,03/04,7,3,Torreense,7-3,FC Azeméis by Noxae,21,211
+148,16/04,3,2,SC Braga/AAUM,3-2,Modicus Cartest,22,212
+149,16/04,3,3,Leões Porto Salvo,3-3,AD Fundão,22,213
+150,16/04,3,1,FC Azeméis by Noxae,3-1,CR Candoso/Natcal,22,214
+151,16/04,1,4,Eléctrico,1-4,Portimonense,22,215
+152,16/04,4,4,Viseu 2001/Palácio do Gelo,4-4,Nun´Álvares,22,216
+153,16/04,1,2,Torreense,1-2,Quinta dos Lombos,22,217
+154,19/04,3,2,Benfica,3-2,Sporting,22,218
+155,23/04,2,3,Nun´Álvares,2-3,Benfica,23,219
+156,23/04,5,0,Sporting,5-0,FC Azeméis by Noxae,23,220
+157,23/04,1,1,CR Candoso/Natcal,1-1,Torreense,23,221
+158,23/04,4,4,Portimonense,4-4,SC Braga/AAUM,23,222
+159,23/04,2,2,AD Fundão,2-2,Eléctrico,23,223
+160,23/04,2,2,Modicus Cartest,2-2,Viseu 2001/Palácio do Gelo,23,224
+161,25/04,2,2,Quinta dos Lombos,2-2,Leões Porto Salvo,23,209
+162,30/03,6,2,Benfica,6-2,Modicus Cartest,24,210
+163,30/03,1,3,Torreense,1-3,Sporting,24,211
+164,30/04,2,2,CR Candoso/Natcal,2-2,Quinta dos Lombos,24,212
+165,30/04,4,4,SC Braga/AAUM,4-4,AD Fundão,24,213
+166,30/04,0,4,Eléctrico,0-4,Leões Porto Salvo,24,214
+167,30/04,2,0,FC Azeméis by Noxae,2-0,Nun´Álvares,24,215
+168,01/05,4,3,Viseu 2001/Palácio do Gelo,4-3,Portimonense,24,216
+169,07/05,3,2,Nun´Álvares,3-2,Torreense,25,217
+170,07/05,5,0,Sporting,5-0,CR Candoso/Natcal,25,218
+171,07/05,6,4,Modicus Cartest,6-4,FC Azeméis by Noxae,25,219
+172,07/05,3,1,AD Fundão,3-1,Viseu 2001/Palácio do Gelo,25,220
+173,07/05,3,2,Eléctrico,3-2,Quinta dos Lombos,25,221
+174,07/05,1,8,Portimonense,1-8,Benfica,25,222
+175,7/05,4,2,Leões Porto Salvo,4-2,SC Braga/AAUM,25,223
+176,13/05,6,5,Quinta dos Lombos,6-5,Sporting,26,224
+177,14/05,1,1,CR Candoso/Natcal,1-1,Nun´Álvares,26,209
+178,14/05,2,3,FC Azeméis by Noxae,2-3,Portimonense,26,210
+179,14/05,6,4,Benfica,6-4,AD Fundão,26,211
+180,14/05,2,4,SC Braga/AAUM,2-4,Eléctrico,26,212
+181,14/05,4,5,Viseu 2001/Palácio do Gelo,4-5,Leões Porto Salvo,26,213
+182,15/05,3,2,Torreense,3-2,Modicus Cartest,26,214

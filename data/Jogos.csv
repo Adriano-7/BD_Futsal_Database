@@ -1,4 +1,4 @@
-,data,equipaVisitada,equipaVisitante,golosMarcadosVisitado,golosMarcadosVisitante,resultado,arbitro,jornada,fasePlayOff,golos
+idJogo,data,equipaVisitada,equipaVisitante,golosMarcadosVisitado,golosMarcadosVisitante,resultado,arbitro,jornada,fasePlayOff,golos
 1,09/10,Quinta dos Lombos,SC Braga/AAUM,3,1,Quinta dos Lombos,223,1,NULL,3-1
 2,09/10,CR Candoso/Natcal,Modicus Cartest,2,0,CR Candoso/Natcal,223,1,NULL,2-0
 3,09/10,FC Azeméis by Noxae,AD Fundão/Hotel Alambique,1,2,AD Fundão/Hotel Alambique,209,1,NULL,1-2

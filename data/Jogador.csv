@@ -15,18 +15,18 @@ id,numeroCamisola,equipa,posicao
 26,6,Sporting,Pivot
 27,7,Sporting,Pivot
 28,44,Sporting,Pivot
-29,30,Electrico,Guarda-Redes
-31,19,Electrico,Fixo
-32,29,Electrico,Fixo
-33,96,Electrico,Fixo
-34,2,Electrico,Ala
-35,6,Electrico,Ala
-36,7,Electrico,Ala
-38,10,Electrico,Ala
-39,90,Electrico,Ala
-40,20,Electrico,Ala
-41,9,Electrico,Pivot
-42,77,Electrico,Pivot
+29,30,Eléctrico,Guarda-Redes
+31,19,Eléctrico,Fixo
+32,29,Eléctrico,Fixo
+33,96,Eléctrico,Fixo
+34,2,Eléctrico,Ala
+35,6,Eléctrico,Ala
+36,7,Eléctrico,Ala
+38,10,Eléctrico,Ala
+39,90,Eléctrico,Ala
+40,20,Eléctrico,Ala
+41,9,Eléctrico,Pivot
+42,77,Eléctrico,Pivot
 59,12,Benfica,Guarda-Redes
 60,22,Benfica,Guarda-Redes
 61,3,Benfica,Fixo
@@ -110,22 +110,22 @@ id,numeroCamisola,equipa,posicao
 139,19,Viseu 2001/Palácio do GeloDigão,Ala
 140,17,Viseu 2001/Palácio do Gelo,Ala
 141,6,Viseu 2001/Palácio do Gelo,Pivot
-142,Viseu 2001/Palácio do Gelo,Pivot
-143,Viseu 2001/Palácio do Gelo,Pivot
-144,2,AD Fundão,Guarda-Redes
-145,31,AD Fundão,Guarda-Redes
-146,92,AD Fundão,Guarda-Redes
-147,6,AD Fundão,Fixo
-148,10,AD Fundão,Fixo
-149,14,AD Fundão,Fixo
-150,18,AD Fundão,Fixo
-151,8,AD Fundão,Ala
-152,11,AD Fundão,Ala
-153,13,AD Fundão,Ala
-154,17,AD Fundão,Ala
-155,80,AD Fundão,Ala
-156,38,AD Fundão,Pivot
-157,97,AD Fundão,Pivot
+142,10,Viseu 2001/Palácio do Gelo,Pivot
+143,27,Viseu 2001/Palácio do Gelo,Pivot
+144,2,AD Fundão/Hotel Alambique,Guarda-Redes
+145,31,AD Fundão/Hotel Alambique,Guarda-Redes
+146,92,AD Fundão/Hotel Alambique,Guarda-Redes
+147,6,AD Fundão/Hotel Alambique,Fixo
+148,10,AD Fundão/Hotel Alambique,Fixo
+149,14,AD Fundão/Hotel Alambique,Fixo
+150,18,AD Fundão/Hotel Alambique,Fixo
+151,8,AD Fundão/Hotel Alambique,Ala
+152,11,AD Fundão/Hotel Alambique,Ala
+153,13,AD Fundão/Hotel Alambique,Ala
+154,17,AD Fundão/Hotel Alambique,Ala
+155,80,AD Fundão/Hotel Alambique,Ala
+156,38,AD Fundão/Hotel Alambique,Pivot
+157,97,AD Fundão/Hotel Alambique,Pivot
 158,3,Portimonense,Guarda-Redes
 159,19,Portimonense,Guarda-Redes
 160,20,Portimonense,Guarda-Redes
@@ -218,25 +218,25 @@ id,numeroCamisola,equipa,posicao
 264,7,Torreense,Pivot
 265,74,Torreense,Pivot
 266,14,Torreense,Pivot
-267,2,Nun´Álvares,Vasco,Guarda-Redes
-268,98,Nun´Álvares,Vasco,Guarda-Redes
-269,99,Nun´Álvares,Vasco,Guarda-Redes
-270,24,Nun´Álvares,Vasco,Fixo
-271,7,Nun´Álvares,Vasco,Fixo
-272,18,Nun´Álvares,Vasco,Fixo
-273,94,Nun´Álvares,Vasco,Fixo
-274,81,Nun´Álvares,Vasco,Fixo
-275,14,Nun´Álvares,Vasco,Universal
-276,13,Nun´Álvares,Vasco,Universal
-277,75,Nun´Álvares,Vasco,Universal
-278,8,Nun´Álvares,Vasco,Ala
-279,9,Nun´Álvares,Vasco,Ala
-280,15,Nun´Álvares,Vasco,Ala
-281,7,Nun´Álvares,Vasco,Ala
-282,10,Nun´Álvares,Vasco,Ala
-283,11,Nun´Álvares,Vasco,Ala
-284,17,Nun´Álvares,Vasco,Ala
-285,20,Nun´Álvares,Vasco,Ala
-286,77,Nun´Álvares,Vasco,Ala
-287,12,Nun´Álvares,Vasco,Pivot
-288,14,Nun´Álvares,Vasco,Pivot
+267,2,Nun´Álvares,Guarda-Redes
+268,98,Nun´Álvares,Guarda-Redes
+269,99,Nun´Álvares,Guarda-Redes
+270,24,Nun´Álvares,Fixo
+271,7,Nun´Álvares,Fixo
+272,18,Nun´Álvares,Fixo
+273,94,Nun´Álvares,Fixo
+274,81,Nun´Álvares,Fixo
+275,14,Nun´Álvares,Universal
+276,13,Nun´Álvares,Universal
+277,75,Nun´Álvares,Universal
+278,8,Nun´Álvares,Ala
+279,9,Nun´Álvares,Ala
+280,15,Nun´Álvares,Ala
+281,7,Nun´Álvares,Ala
+282,10,Nun´Álvares,Ala
+283,11,Nun´Álvares,Ala
+284,17,Nun´Álvares,Ala
+285,20,Nun´Álvares,Ala
+286,77,Nun´Álvares,Ala
+287,12,Nun´Álvares,Pivot
+288,14,Nun´Álvares,Pivot

@@ -1,15 +1,15 @@
-id,nome,cidade,equipa,lotacao
-1,Pavilhão Joao Rocha,Lisboa,Sporting,3000
-2,Pavilhão Gimnodesportivo de Ponte de Sor,Ponte de Sor,Eléctrico,720
-3,Pavilhão Fidelidade,Lisboa,Benfica,2400
-4,Pavilhão dos Leoes de Porto Salvo,Oeiras,Leões Porto Salvo,700
-5,Pavilhão Desportivo dos Lombos,Lisboa,Quinta dos Lombos,650
-6,Pavilhão Desporivo Universitario de Gualtar,Braga,SC Braga/AAUM,1000
-7,Pavilhão Municipal do Fundao,Fundao,AD Fundao,1056
-8,Pavilhão Desporivo da Boavista,Portimao,Portimonense,480
-9,Pavilhão Desportivo do CR Candoso,Guimaraes,CR Candoso/Natcal,700
-10,Pavilhão Municipal Prof.Antonio Costeira,Oliveira Azemeis,FC Azemeis,250
-11,Pavilhão Desportivo Cidade de Viseu,Viseu,Viseu 2001/Palácio do Gelo,1200
-12,Pavilhão do Modicus,Gaia,Modicus Cartest,700
-13,Pavilhão Fisica de Torres Vedras,Torres Vedras,Torreense,1000
-14,Pavilhão do Nun´Álvares,Fafe,Nun´Álvares,1500
+idPavilhao,nome,cidade,lotacao,equipa
+1,Pavilhao Joao Rocha,Lisboa,3000,Sporting
+2,Pavilhao Gimnodesportivo de Ponte de Sor,Ponte de Sor,720,Eléctrico
+3,Pavilhao Fidelidade,Lisboa,2400,Benfica
+4,Pavilhao dos Leoes de Porto Salvo,Oeiras,700,Leões Porto Salvo
+5,Pavilhao Desportivo dos Lombos,Cascais,650,Quinta dos Lombos
+6,Pavilhao Desporivo Universitario de Gualtar,Braga,1000,SC Braga/AAUM
+7,Pavilhao Municipal do Fundao,Fundao,1056,AD Fundão/Hotel Alambique
+8,Pavilhao Desporivo da Boavista,Portimao,480,Portimonense
+9,Pavilhao Desportivo do CR Candoso,Guimaraes,700,CR Candoso/Natcal
+10,Pavilhao Municipal Prof.Antonio Costeira,Oliveira de  Azeméis,250,FC Azeméis by Noxae
+11,Pavilhão do Modicus,Gaia,700,Modicus Cartest
+12,Pavilhão Fisica de Torres Vedras,Torres Vedras,1000,Torreense
+13,Pavilhão do Nun´Álvares,Fafe,1500,Nun´Álvares
+14,Pavilhão Desportivo Cidade de Viseu,Viseu,1200,Viseu 2001/Palácio do Gelo

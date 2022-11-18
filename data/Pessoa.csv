@@ -1,4 +1,4 @@
-id,primeiroNome,segundoNome,idade,pais
+idPessoa,primeiroNome,segundoNome,idade,pais
 1,Nuno,Dias,49,Portugal
 2,João,Pinto,53,Portugal
 3,Paulo,Fernandes,57,Portugal

@@ -1,14 +1,15 @@
-Eléctrico,electricofutebolcl@sapo.pt,242202420,Avenida General Humberto Delgado 7400-259 Ponte de Sor,0,0,0,0,0,0
-FC Azeméis by Noxae,futsalcazemeis@gmail.com,255495901,Av. Eusébio da Silva Ferreira Apartado 4100 1501-805 Lisboa,0,0,0,0,0,0
-Sporting,geral@futsalsporting.com,246374654,Rua Ferreira do Alentejo-Centro Municipal de Coletividades 2240-808 Ferreira do Zezere,0,0,0,0,0,0
-Quinta dos Lombos,geral@crcquintalombos.net,249394123,Rua Basílio Teles 2740-025 Porto Salvo,0,0,0,0,0,0
-Benfica,geral@futsalbenfica.net,214587667,Rua das Túlipas 2775-690 Carcavelos Cascais,0,0,0,0,0,0
-Torreense,geral@torreense.com,214957362,Estádio Municipal de Braga 4711-909 Braga,0,0,0,0,0,0
-Modicus Cartest,modicus-sandim@sapo.pt,253728765,Av. Dr.António Bento Martins Júnior 4480-802 Vila do Conde,0,0,0,0,0,0
-Portimonense,secretaria@portimonense.pt,223848263,Rua João Franco 6230-363 Fundão,0,0,0,0,0,0
-CR Candoso/Natcal,cluberecreativocandoso@gmail.com,218273627,Rua São Martinho de Candoso 4835 - Guimarães,0,0,0,0,0,0
-SC Braga/AAUM,geral@scbaaumfutsal.com,247382736,Praça Manuel Teixeira Gomes 8500-542 Portimão,0,0,0,0,0,0
-Leões Porto Salvo,crlps@sapo.pt,218965045,Rua José Moreira Dias 3720-263 rgrggdrg,0,0,0,0,0,0
-Viseu 2001/Palácio do Gelo,marketing@viseu2001.com,235893759,Rua José Moreira Dias 3720-263 dfdfweew,0,0,0,0,0,0
-Nun´Álvares,gruponunalvares@gruponunalvares.pt,229583905,Rua José Moreira Dias 3720-263 dfdf,0,0,0,0,0,0
-AD Fundão/Hotel Alambique,futsaladf@gmail.com,223475849,"Rua João Franco, Nº 20 / 6230-363 Fundão",0,0,0,0,0,0
+nome,email,telefone,morada,pontuacaoTotal,golosMarcados,golosSofridos,jogosGanhos,jogosEmpatados
+Eléctrico,electricofutebolcl@sapo.pt,242202420,Avenida General Humberto Delgado 7400-259 Ponte de Sor,0,0,0,0,0
+FC Azeméis by Noxae,futsalcazemeis@gmail.com,255495901,Rua José Moreira Dias 3720-263 Oliveira de Azeméis,0,0,0,0,0
+Sporting,geral@futsalsporting.com,246374654,Edificio Multidesportivo Açoreana Seguros 1501-806 Lisboa,0,0,0,0,0
+Quinta dos Lombos,geral@crcquintalombos.net,249394123,Rua das Túlipas 52 Quinta dos Lombos 2775-690 Cascais,0,0,0,0,0
+Benfica,geral@futsalbenfica.net,214587667,Av Eusébio da Silva Ferreira 1501-805 Lisboa,0,0,0,0,0
+Torreense,geral@torreense.com,214957362,Campo Manuel Marques 2560-312 Torres Vedras,0,0,0,0,0
+Modicus Cartest,modicus-sandim@sapo.pt,253728765,Rua Senhor Dos Aflitosm 4415-887 Sandim,0,0,0,0,0
+Portimonense,secretaria@portimonense.pt,223848263,Praça Manuel Teixeira Gomes 8500-542 Portimão,0,0,0,0,0
+CR Candoso/Natcal,cluberecreativocandoso@gmail.com,218273627,Rua São Martinho de Candoso 4835 - Guimarães,0,0,0,0,0
+SC Braga/AAUM,geral@scbaaumfutsal.com,247382736,Estádio Municipal de Braga 4711-909 Braga,0,0,0,0,0
+Leões Porto Salvo,crlps@sapo.pt,218965045,Rua Basílio Teles 2740-025 Porto Salvo,0,0,0,0,0
+Viseu 2001/Palácio do Gelo,marketing@viseu2001.com,235893759,Largo das Almas Marzovelos 3510-010 Viseu,0,0,0,0,0
+Nun´Álvares,gruponunalvares@gruponunalvares.pt,229583905,Rua Guerra Junqueiro 4820-263 Fafe,0,0,0,0,0
+AD Fundão/Hotel Alambique,futsaladf@gmail.com,223475849,Rua João Franco 6230-363 Fundão,0,0,0,0,0

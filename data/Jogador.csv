@@ -1,242 +1,243 @@
-id,numeroCamisola,equipa,posicao
-13,1,Sporting,Guarda-Redes
-14,14,Sporting,Guarda-Redes
-15,16,Sporting,Guarda-Redes
-16,4,Sporting,Fixo
-17,8,Sporting,Fixo
-18,9,Sporting,Fixo
-19,13,Sporting,Universal
-20,3,Sporting,Ala
-21,10,Sporting,Ala
-22,17,Sporting,Ala
-23,18,Sporting,Ala
-24,20,Sporting,Ala
-25,29,Sporting,Ala
-26,6,Sporting,Pivot
-27,7,Sporting,Pivot
-28,44,Sporting,Pivot
-29,30,Eléctrico,Guarda-Redes
-31,19,Eléctrico,Fixo
-32,29,Eléctrico,Fixo
-33,96,Eléctrico,Fixo
-34,2,Eléctrico,Ala
-35,6,Eléctrico,Ala
-36,7,Eléctrico,Ala
-38,10,Eléctrico,Ala
-39,90,Eléctrico,Ala
-40,20,Eléctrico,Ala
-41,9,Eléctrico,Pivot
-42,77,Eléctrico,Pivot
-59,12,Benfica,Guarda-Redes
-60,22,Benfica,Guarda-Redes
-61,3,Benfica,Fixo
-62,4,Benfica,Fixo
-63,8,Benfica,Fixo
-64,9,Benfica,Fixo
-65,2,Benfica,Ala
-66,7,Benfica,Ala
-67,10,Benfica,Ala
-68,11,Benfica,Ala
-69,16,Benfica,Ala
-70,17,Benfica,Ala
-71,18,Benfica,Ala
-72,19,Benfica,Ala
-73,13,Benfica,Ala
-74,20,Benfica,Pivot
-75,70,Benfica,Pivot
-76,99,Benfica,Pivot
-77,1,Leões Porto Salvo,Guarda-Redes
-78,24,Leões Porto Salvo,Guarda-Redes
-79,42,Leões Porto Salvo,Guarda-Redes
-80,92,Leões Porto Salvo,Fixo
-81,6,Leões Porto Salvo,Fixo
-82,8,Leões Porto Salvo,Fixo
-83,13,Leões Porto Salvo,Universal
-84,7,Leões Porto Salvo,Ala
-85,10,Leões Porto Salvo,Ala
-86,12,Leões Porto Salvo,Ala
-87,14,Leões Porto Salvo,Ala
-88,41,Leões Porto Salvo,Ala
-89,50,Leões Porto Salvo,Ala
-90,18,Leões Porto Salvo,Ala
-91,43,Leões Porto Salvo,Pivot
-92,27,Leões Porto Salvo,Pivot
-93,77,Leões Porto Salvo,Pivot
-94,13,Quinta dos Lombos,Guarda-Redes
-95,25,Quinta dos Lombos,Guarda-Redes
-96,22,Quinta dos Lombos,Guarda-Redes
-97,6,Quinta dos Lombos,Fixo
-98,8,Quinta dos Lombos,Fixo
-99,23,Quinta dos Lombos,Fixo
-100,33,Quinta dos Lombos,Fixo
-101,7,Quinta dos Lombos,Ala
-102,9,Quinta dos Lombos,Ala
-103,10,Quinta dos Lombos,Ala
-104,11,Quinta dos Lombos,Ala
-105,19,Quinta dos Lombos,Ala
-106,20,Quinta dos Lombos,Ala
-107,14,Quinta dos Lombos,Pivot
-108,17,Quinta dos Lombos,Pivot
-109,18,Quinta dos Lombos,Pivot
-110,1,SC Braga/AAUM,Guarda-Redes
-111,21,SC Braga/AAUM,Guarda-Redes
-112,32,SC Braga/AAUM,Guarda-Redes
-113,3,SC Braga/AAUM,Fixo
-114,9,SC Braga/AAUM,Fixo
-115,5,SC Braga/AAUM,Universal
-116,6,SC Braga/AAUM,Ala
-117,8,SC Braga/AAUM,Ala
-118,10,SC Braga/AAUM,Ala
-119,12,SC Braga/AAUM,Ala
-120,30,SC Braga/AAUM,Ala
-121,33,SC Braga/AAUM,Ala
-122,71,SC Braga/AAUM,Ala
-123,14,SC Braga/AAUM,Ala
-124,11,SC Braga/AAUM,Pivot
-125,19,SC Braga/AAUM,Pivot
-126,99,SC Braga/AAUM,Pivot
-127,20,Viseu 2001/Palácio do Gelo,Guarda-Redes
-128,12,Viseu 2001/Palácio do Gelo,Guarda-Redes
-129,30,Viseu 2001/Palácio do Gelo,Ala
-130,66,Viseu 2001/Palácio do Gelo,Ala
-131,30,Viseu 2001/Palácio do Gelo,Guarda-Redes
-132,8,Viseu 2001/Palácio do Gelo,Fixo
-133,13,Viseu 2001/Palácio do Gelo,Fixo
-134,23,Viseu 2001/Palácio do Gelo,Fixo
-135,14,Viseu 2001/Palácio do Gelo,Universal
-136,7,Viseu 2001/Palácio do Gelo,Ala
-137,15,Viseu 2001/Palácio do Gelo,Ala
-138,11,Viseu 2001/Palácio do Gelo,Ala
-139,19,Viseu 2001/Palácio do GeloDigão,Ala
-140,17,Viseu 2001/Palácio do Gelo,Ala
-141,6,Viseu 2001/Palácio do Gelo,Pivot
-142,10,Viseu 2001/Palácio do Gelo,Pivot
-143,27,Viseu 2001/Palácio do Gelo,Pivot
-144,2,AD Fundão/Hotel Alambique,Guarda-Redes
-145,31,AD Fundão/Hotel Alambique,Guarda-Redes
-146,92,AD Fundão/Hotel Alambique,Guarda-Redes
-147,6,AD Fundão/Hotel Alambique,Fixo
-148,10,AD Fundão/Hotel Alambique,Fixo
-149,14,AD Fundão/Hotel Alambique,Fixo
-150,18,AD Fundão/Hotel Alambique,Fixo
-151,8,AD Fundão/Hotel Alambique,Ala
-152,11,AD Fundão/Hotel Alambique,Ala
-153,13,AD Fundão/Hotel Alambique,Ala
-154,17,AD Fundão/Hotel Alambique,Ala
-155,80,AD Fundão/Hotel Alambique,Ala
-156,38,AD Fundão/Hotel Alambique,Pivot
-157,97,AD Fundão/Hotel Alambique,Pivot
-158,3,Portimonense,Guarda-Redes
-159,19,Portimonense,Guarda-Redes
-160,20,Portimonense,Guarda-Redes
-161,6,Portimonense,Fixo
-162,15,Portimonense,Fixo
-163,88,Portimonense,Fixo
-164,25,Portimonense,Fixo
-165,5,Portimonense,Universal
-166,55,Portimonense,Universal
-167,8,Portimonense,Ala
-168,9,Portimonense,Ala
-169,11,Portimonense,Ala
-170,12,Portimonense,Ala
-171,60,Portimonense,Ala
-172,7,Portimonense,Pivot
-173,10,Portimonense,Pivot
-174,1,CR Candoso/Natcal,Guarda-Redes
-175,15,CR Candoso/Natcal,Guarda-Redes
-176,21,CR Candoso/Natcal,Guarda-Redes
-177,24,CR Candoso/Natcal,Guarda-Redes
-178,13,CR Candoso/Natcal,Fixo
-179,19,CR Candoso/Natcal,Fixo
-180,21,CR Candoso/Natcal,Fixo
-181,58,CR Candoso/Natcal,Fixo
-182,20,CR Candoso/Natcal,Universal
-183,22,CR Candoso/Natcal,Universal
-184,8,CR Candoso/Natcal,Ala
-185,9,CR Candoso/Natcal,Ala
-186,10,CR Candoso/Natcal,Ala
-187,17,CR Candoso/Natcal,Ala
-188,18,CR Candoso/Natcal,Ala
-190,12,CR Candoso/Natcal,Ala
-191,14,CR Candoso/Natcal,Pivot
-192,25,CR Candoso/Natcal,Pivot
-193,1,FC Azeméis by Noxae,Guarda-Redes
-194,28,FC Azeméis by Noxae,Guarda-Redes
-195,13,FC Azeméis by Noxae,Guarda-Redes
-196,16,FC Azeméis by Noxae,Guarda-Redes
-197,6,FC Azeméis by Noxae,Fixo
-198,8,FC Azeméis by Noxae,Fixo
-199,14,FC Azeméis by Noxae,Universal
-200,29,FC Azeméis by Noxae,Universal
-201,2,FC Azeméis by Noxae,Ala
-202,5,FC Azeméis by Noxae,Ala
-203,11,FC Azeméis by Noxae,Ala
-204,12,FC Azeméis by Noxae,Ala
-205,14,FC Azeméis by Noxae,Ala
-206,17,FC Azeméis by Noxae,Ala
-207,9,FC Azeméis by Noxae,Pivot
-208,10,FC Azeméis by Noxae,Pivot
-225,3,Modicus Cartest,Guarda-Redes
-226,1,Modicus Cartest,Guarda-Redes
-227,12,Modicus Cartest,Guarda-Redes
-228,80,Modicus Cartest,Guarda-Redes
-229,8,Modicus Cartest,Fixo
-230,80,Modicus Cartest,Fixo
-231,6,Modicus Cartest,Fixo
-232,10,Modicus Cartest,Fixo
-233,11,Modicus Cartest,Ala
-234,13,Modicus Cartest,Ala
-235,5,Modicus Cartest,Ala
-236,8,Modicus Cartest,Ala
-237,9,Modicus Cartest,Ala
-238,20,Modicus Cartest,Ala
-239,24,Modicus Cartest,Ala
-240,27,Modicus Cartest,Ala
-241,70,Modicus Cartest,Ala
-242,77,Modicus Cartest,Ala
-243,79,Modicus Cartest,Ala
-244,7,Modicus Cartest,Pivot
-245,11,Modicus Cartest,Pivot
-246,17,Modicus Cartest,Pivot
-247,60,Modicus Cartest,Pivot
-248,1,Torreense,Guarda-Redes
-249,12,Torreense,Guarda-Redes
-250,23,Torreense,Guarda-Redes
-251,31,Torreense,Guarda-Redes
-252,2,Torreense,Fixo
-253,4,Torreense,Fixo
-254,16,Torreense,Fixo
-255,92,Torreense,Fixo
-256,26,Torreense,Ala
-257,5,Torreense,Ala
-258,9,Torreense,Ala
-259,10,Torreense,Ala
-260,27,Torreense,Ala
-261,33,Torreense,Ala
-262,60,Torreense,Ala
-263,89,Torreense,Ala
-264,7,Torreense,Pivot
-265,74,Torreense,Pivot
-266,14,Torreense,Pivot
-267,2,Nun´Álvares,Guarda-Redes
-268,98,Nun´Álvares,Guarda-Redes
-269,99,Nun´Álvares,Guarda-Redes
-270,24,Nun´Álvares,Fixo
-271,7,Nun´Álvares,Fixo
-272,18,Nun´Álvares,Fixo
-273,94,Nun´Álvares,Fixo
-274,81,Nun´Álvares,Fixo
-275,14,Nun´Álvares,Universal
-276,13,Nun´Álvares,Universal
-277,75,Nun´Álvares,Universal
-278,8,Nun´Álvares,Ala
-279,9,Nun´Álvares,Ala
-280,15,Nun´Álvares,Ala
-281,7,Nun´Álvares,Ala
-282,10,Nun´Álvares,Ala
-283,11,Nun´Álvares,Ala
-284,17,Nun´Álvares,Ala
-285,20,Nun´Álvares,Ala
-286,77,Nun´Álvares,Ala
-287,12,Nun´Álvares,Pivot
-288,14,Nun´Álvares,Pivot
+idJogador,numeroCamisola,posicao,equipa
+13,1,Guarda-Redes,Sporting
+14,14,Guarda-Redes,Sporting
+15,16,Guarda-Redes,Sporting
+16,4,Fixo,Sporting
+17,8,Fixo,Sporting
+18,9,Fixo,Sporting
+19,13,Universal,Sporting
+20,3,Ala,Sporting
+21,10,Ala,Sporting
+22,17,Ala,Sporting
+23,18,Ala,Sporting
+24,20,Ala,Sporting
+25,29,Ala,Sporting
+26,6,Pivot,Sporting
+27,7,Pivot,Sporting
+28,44,Pivot,Sporting
+29,30,Guarda-Redes,Eléctrico
+30,99,Guarda-Redes,Eléctrico
+31,19,Fixo,Eléctrico
+32,29,Fixo,Eléctrico
+33,96,Fixo,Eléctrico
+34,2,Ala,Eléctrico
+35,6,Ala,Eléctrico
+36,7,Ala,Eléctrico
+38,10,Ala,Eléctrico
+39,90,Ala,Eléctrico
+40,20,Ala,Eléctrico
+41,9,Pivot,Eléctrico
+42,77,Pivot,Eléctrico
+59,12,Guarda-Redes,Benfica
+60,22,Guarda-Redes,Benfica
+61,3,Fixo,Benfica
+62,4,Fixo,Benfica
+63,8,Fixo,Benfica
+64,9,Fixo,Benfica
+65,2,Ala,Benfica
+66,7,Ala,Benfica
+67,10,Ala,Benfica
+68,11,Ala,Benfica
+69,16,Ala,Benfica
+70,17,Ala,Benfica
+71,18,Ala,Benfica
+72,19,Ala,Benfica
+73,13,Ala,Benfica
+74,20,Pivot,Benfica
+75,70,Pivot,Benfica
+76,99,Pivot,Benfica
+77,1,Guarda-Redes,Leões Porto Salvo
+78,24,Guarda-Redes,Leões Porto Salvo
+79,42,Guarda-Redes,Leões Porto Salvo
+80,92,Fixo,Leões Porto Salvo
+81,6,Fixo,Leões Porto Salvo
+82,8,Fixo,Leões Porto Salvo
+83,13,Universal,Leões Porto Salvo
+84,7,Ala,Leões Porto Salvo
+85,10,Ala,Leões Porto Salvo
+86,12,Ala,Leões Porto Salvo
+87,14,Ala,Leões Porto Salvo
+88,41,Ala,Leões Porto Salvo
+89,50,Ala,Leões Porto Salvo
+90,18,Ala,Leões Porto Salvo
+91,43,Pivot,Leões Porto Salvo
+92,27,Pivot,Leões Porto Salvo
+93,77,Pivot,Leões Porto Salvo
+94,13,Guarda-Redes,Quinta dos Lombos
+95,25,Guarda-Redes,Quinta dos Lombos
+96,22,Guarda-Redes,Quinta dos Lombos
+97,6,Fixo,Quinta dos Lombos
+98,8,Fixo,Quinta dos Lombos
+99,23,Fixo,Quinta dos Lombos
+100,33,Fixo,Quinta dos Lombos
+101,7,Ala,Quinta dos Lombos
+102,9,Ala,Quinta dos Lombos
+103,10,Ala,Quinta dos Lombos
+104,11,Ala,Quinta dos Lombos
+105,19,Ala,Quinta dos Lombos
+106,20,Ala,Quinta dos Lombos
+107,14,Pivot,Quinta dos Lombos
+108,17,Pivot,Quinta dos Lombos
+109,18,Pivot,Quinta dos Lombos
+110,1,Guarda-Redes,SC Braga/AAUM
+111,21,Guarda-Redes,SC Braga/AAUM
+112,32,Guarda-Redes,SC Braga/AAUM
+113,3,Fixo,SC Braga/AAUM
+114,9,Fixo,SC Braga/AAUM
+115,5,Universal,SC Braga/AAUM
+116,6,Ala,SC Braga/AAUM
+117,8,Ala,SC Braga/AAUM
+118,10,Ala,SC Braga/AAUM
+119,12,Ala,SC Braga/AAUM
+120,30,Ala,SC Braga/AAUM
+121,33,Ala,SC Braga/AAUM
+122,71,Ala,SC Braga/AAUM
+123,14,Ala,SC Braga/AAUM
+124,11,Pivot,SC Braga/AAUM
+125,19,Pivot,SC Braga/AAUM
+126,99,Pivot,SC Braga/AAUM
+127,20,Guarda-Redes,Viseu 2001/Palácio do Gelo
+128,12,Guarda-Redes,Viseu 2001/Palácio do Gelo
+129,30,Ala,Viseu 2001/Palácio do Gelo
+130,66,Ala,Viseu 2001/Palácio do Gelo
+131,30,Guarda-Redes,Viseu 2001/Palácio do Gelo
+132,8,Fixo,Viseu 2001/Palácio do Gelo
+133,13,Fixo,Viseu 2001/Palácio do Gelo
+134,23,Fixo,Viseu 2001/Palácio do Gelo
+135,14,Universal,Viseu 2001/Palácio do Gelo
+136,7,Ala,Viseu 2001/Palácio do Gelo
+137,15,Ala,Viseu 2001/Palácio do Gelo
+138,11,Ala,Viseu 2001/Palácio do Gelo
+139,19,Ala,Viseu 2001/Palácio do Gelo
+140,17,Ala,Viseu 2001/Palácio do Gelo
+141,6,Pivot,Viseu 2001/Palácio do Gelo
+142,10,Pivot,Viseu 2001/Palácio do Gelo
+143,27,Pivot,Viseu 2001/Palácio do Gelo
+144,2,Guarda-Redes,AD Fundão/Hotel Alambique
+145,31,Guarda-Redes,AD Fundão/Hotel Alambique
+146,92,Guarda-Redes,AD Fundão/Hotel Alambique
+147,6,Fixo,AD Fundão/Hotel Alambique
+148,10,Fixo,AD Fundão/Hotel Alambique
+149,14,Fixo,AD Fundão/Hotel Alambique
+150,18,Fixo,AD Fundão/Hotel Alambique
+151,8,Ala,AD Fundão/Hotel Alambique
+152,11,Ala,AD Fundão/Hotel Alambique
+153,13,Ala,AD Fundão/Hotel Alambique
+154,17,Ala,AD Fundão/Hotel Alambique
+155,80,Ala,AD Fundão/Hotel Alambique
+156,38,Pivot,AD Fundão/Hotel Alambique
+157,97,Pivot,AD Fundão/Hotel Alambique
+158,3,Guarda-Redes,Portimonense
+159,19,Guarda-Redes,Portimonense
+160,20,Guarda-Redes,Portimonense
+161,6,Fixo,Portimonense
+162,15,Fixo,Portimonense
+163,88,Fixo,Portimonense
+164,25,Fixo,Portimonense
+165,5,Universal,Portimonense
+166,55,Universal,Portimonense
+167,8,Ala,Portimonense
+168,9,Ala,Portimonense
+169,11,Ala,Portimonense
+170,12,Ala,Portimonense
+171,60,Ala,Portimonense
+172,7,Pivot,Portimonense
+173,10,Pivot,Portimonense
+174,1,Guarda-Redes,CR Candoso/Natcal
+175,15,Guarda-Redes,CR Candoso/Natcal
+176,21,Guarda-Redes,CR Candoso/Natcal
+177,24,Guarda-Redes,CR Candoso/Natcal
+178,13,Fixo,CR Candoso/Natcal
+179,19,Fixo,CR Candoso/Natcal
+180,21,Fixo,CR Candoso/Natcal
+181,58,Fixo,CR Candoso/Natcal
+182,20,Universal,CR Candoso/Natcal
+183,22,Universal,CR Candoso/Natcal
+184,8,Ala,CR Candoso/Natcal
+185,9,Ala,CR Candoso/Natcal
+186,10,Ala,CR Candoso/Natcal
+187,17,Ala,CR Candoso/Natcal
+188,18,Ala,CR Candoso/Natcal
+190,12,Ala,CR Candoso/Natcal
+191,14,Pivot,CR Candoso/Natcal
+192,25,Pivot,CR Candoso/Natcal
+193,1,Guarda-Redes,FC Azeméis by Noxae
+194,28,Guarda-Redes,FC Azeméis by Noxae
+195,13,Guarda-Redes,FC Azeméis by Noxae
+196,16,Guarda-Redes,FC Azeméis by Noxae
+197,6,Fixo,FC Azeméis by Noxae
+198,8,Fixo,FC Azeméis by Noxae
+199,14,Universal,FC Azeméis by Noxae
+200,29,Universal,FC Azeméis by Noxae
+201,2,Ala,FC Azeméis by Noxae
+202,5,Ala,FC Azeméis by Noxae
+203,11,Ala,FC Azeméis by Noxae
+204,12,Ala,FC Azeméis by Noxae
+205,14,Ala,FC Azeméis by Noxae
+206,17,Ala,FC Azeméis by Noxae
+207,9,Pivot,FC Azeméis by Noxae
+208,10,Pivot,FC Azeméis by Noxae
+225,3,Guarda-Redes,Modicus Cartest
+226,1,Guarda-Redes,Modicus Cartest
+227,12,Guarda-Redes,Modicus Cartest
+228,80,Guarda-Redes,Modicus Cartest
+229,8,Fixo,Modicus Cartest
+230,80,Fixo,Modicus Cartest
+231,6,Fixo,Modicus Cartest
+232,10,Fixo,Modicus Cartest
+233,11,Ala,Modicus Cartest
+234,13,Ala,Modicus Cartest
+235,5,Ala,Modicus Cartest
+236,8,Ala,Modicus Cartest
+237,9,Ala,Modicus Cartest
+238,20,Ala,Modicus Cartest
+239,24,Ala,Modicus Cartest
+240,27,Ala,Modicus Cartest
+241,70,Ala,Modicus Cartest
+242,77,Ala,Modicus Cartest
+243,79,Ala,Modicus Cartest
+244,7,Pivot,Modicus Cartest
+245,11,Pivot,Modicus Cartest
+246,17,Pivot,Modicus Cartest
+247,60,Pivot,Modicus Cartest
+248,1,Guarda-Redes,Torreense
+249,12,Guarda-Redes,Torreense
+250,23,Guarda-Redes,Torreense
+251,31,Guarda-Redes,Torreense
+252,2,Fixo,Torreense
+253,4,Fixo,Torreense
+254,16,Fixo,Torreense
+255,92,Fixo,Torreense
+256,26,Ala,Torreense
+257,5,Ala,Torreense
+258,9,Ala,Torreense
+259,10,Ala,Torreense
+260,27,Ala,Torreense
+261,33,Ala,Torreense
+262,60,Ala,Torreense
+263,89,Ala,Torreense
+264,7,Pivot,Torreense
+265,74,Pivot,Torreense
+266,14,Pivot,Torreense
+267,2,Guarda-Redes,Nun´Álvares
+268,98,Guarda-Redes,Nun´Álvares
+269,99,Guarda-Redes,Nun´Álvares
+270,24,Fixo,Nun´Álvares
+271,7,Fixo,Nun´Álvares
+272,18,Fixo,Nun´Álvares
+273,94,Fixo,Nun´Álvares
+274,81,Fixo,Nun´Álvares
+275,14,Universal,Nun´Álvares
+276,13,Universal,Nun´Álvares
+277,75,Universal,Nun´Álvares
+278,8,Ala,Nun´Álvares
+279,9,Ala,Nun´Álvares
+280,15,Ala,Nun´Álvares
+281,7,Ala,Nun´Álvares
+282,10,Ala,Nun´Álvares
+283,11,Ala,Nun´Álvares
+284,17,Ala,Nun´Álvares
+285,20,Ala,Nun´Álvares
+286,77,Ala,Nun´Álvares
+287,12,Pivot,Nun´Álvares
+288,14,Pivot,Nun´Álvares

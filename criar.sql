@@ -22,7 +22,7 @@ CREATE TABLE Equipa (
     pontuacaoTotal INTEGER DEFAULT (0), 
     golosMarcados INTEGER DEFAULT (0), 
     golosSofridos INTEGER DEFAULT (0), 
-    diferencaGolos INTEGER AS (golosMarcados - golosSofridos), 
+    diferencaGolos INTEGER DEFAULT (0), 
     jogosGanhos INTEGER DEFAULT (0), 
     jogosEmpatados INTEGER DEFAULT (0)
 );

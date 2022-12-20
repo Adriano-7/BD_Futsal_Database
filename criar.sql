@@ -59,7 +59,7 @@ CREATE TABLE Jornada (
 
 DROP TABLE IF EXISTS Playoff;
 CREATE TABLE Playoff (
-    fase VARCHAR (75) PRIMARY KEY CHECK (fase = "QUARTOS-DE-FINAL" or fase = "MEIAS-FINAIS" or fase = "FINAL") NOT NULL, 
+    fase VARCHAR (75) PRIMARY KEY CHECK (fase = "QUARTOS-DE-FINAL" or fase = "MEIAS-FINAIS" or fase = "FINAL") UNIQUE NOT NULL, 
     dataInicio VARCHAR (75) UNIQUE NOT NULL, 
     dataFim VARCHAR (75) UNIQUE NOT NULL
 );

@@ -1,16 +1,3 @@
-/**
-Pessoa(idPessoa, primeiroNome, segundoNome, idade, pais)
-Treinador(idTreinador -> Pessoa, equipa -> Equipa)
-Arbitro(idArbitro -> Pessoa, distrito)
-Jogador(idJogador ->Pessoa, numeroCamisola, posicao, equipa -> Equipa)
-Equipa (nome,email,telefone,morada, pontuacaoTotal, golosMarcados, golosSofridos, diferencaGolos, jogosGanhos, jogosEmpatados)
-Pavilhao(idPavilhao, nome, cidade, lotacao, equipa -> Equipa)
-Jogo(idJogo, data, golosMarcadosVisitante, golosMarcadosVisitado, nomeEquipaVisitante ->Equipa, nomeEquipaVisitada -> Equipa, idArbitro -> Arbitro,  numero -> Jornada, fase->Playoff )
-GoloMarcado(idGolo, minuto, idJogador->Jogador, idJogo -> Jogo)
-Jornada(numero, dataInicio, dataFim)
-Playoff(fase, dataInicio, dataFim)
-**/
-
 /** Quantos jogos ganhou, empatou e perdeu cada equipa na fase regular do campeonato numa só tabela **/
 
 .mode columns

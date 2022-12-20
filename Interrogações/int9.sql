@@ -1,3 +1,7 @@
+.mode columns
+.header on
+.nullvalue NULL
+
 /*Maior diferença de golos num jogo entre as duas equipas*/
 select (select max(golosMarcadosVisitante - golosMarcadosVisitado) from Jogo) as dg, nomeEquipaVisitante, golosMarcadosVisitante, nomeEquipaVisitada, golosMarcadosVisitado
 from Jogo

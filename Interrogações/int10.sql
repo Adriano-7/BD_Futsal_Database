@@ -1,3 +1,7 @@
+.mode columns
+.header on
+.nullvalue NULL
+
 /*jogador com mais golos marcados por equipa*/
 select nome, primeiroNome, segundoNome, max(golos) as golos
 from

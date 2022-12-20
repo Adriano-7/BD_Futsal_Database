@@ -59,7 +59,7 @@ CREATE TABLE Jornada (
 
 DROP TABLE IF EXISTS Playoff;
 CREATE TABLE Playoff (
-    fase VARCHAR (75) PRIMARY KEY CHECK (fase = "QUARTOS-DE-FINAL" or fase = "MEIAS-FINAIS" or fase = "FINAL") UNIQUE NOT NULL, 
+    fase VARCHAR (75) PRIMARY KEY CHECK (fase = "QUARTOS-DE-FINAL" or fase = "MEIAS-FINAIS" or fase = "FINAL"), 
     dataInicio VARCHAR (75) UNIQUE NOT NULL, 
     dataFim VARCHAR (75) UNIQUE NOT NULL
 );
@@ -72,7 +72,7 @@ CREATE TABLE Jogo (
     golosMarcadosVisitado INTEGER CHECK (golosMarcadosVisitado >= 0) NOT NULL, 
     nomeEquipaVisitada VARCHAR (75) REFERENCES Equipa (nome) ON DELETE CASCADE ON UPDATE CASCADE, 
     nomeEquipaVisitante VARCHAR (75) REFERENCES Equipa (nome) ON DELETE CASCADE ON UPDATE CASCADE, 
-    arbitro INTEGER REFERENCES Pessoa (idPessoa) ON DELETE CASCADE ON UPDATE CASCADE, 
+    arbitro INTEGER REFERENCES Arbitro (idArbitro) ON DELETE CASCADE ON UPDATE CASCADE, 
     numeroJornada INTEGER REFERENCES Jornada (numero) ON DELETE CASCADE ON UPDATE CASCADE, 
     fasePlayOff VARCHAR (75) REFERENCES Playoff (fase) ON DELETE CASCADE ON UPDATE CASCADE
 );

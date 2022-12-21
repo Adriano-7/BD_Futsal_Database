@@ -2,7 +2,7 @@
 .header on
 .nullvalue NULL
 
-/*Percentagem de vitórias em casa e fora de cada equipa*/
+--Percentagem de vitórias em casa e fora de cada equipa
 
 select nome, ROUND((jogosGanhosCasa*100.0/nJogosCasa),2) as percentagemVitoriasCasa, ROUND((jogosGanhosFora*100.0/nJogosFora),2) as percentagemVitoriasFora
 from

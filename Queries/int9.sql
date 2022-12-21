@@ -2,7 +2,7 @@
 .header on
 .nullvalue NULL
 
-/**Quantos golos foram marcados em cada pavilhão **/
+--Número de golos marcados em cada pavilhão
 
 select p.nome, count(g.idGolo) as golosMarcados
 from Pavilhao p

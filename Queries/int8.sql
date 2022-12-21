@@ -2,7 +2,7 @@
 .header on
 .nullvalue NULL
 
--- Quais os 5 arbitros que arbitraram mais jogos no campeonato
+-- Cinco árbitros com mais jogos arbitrados
 
 select p.primeiroNome, p.segundoNome, count(j.idJogo) as jogosArbitrados
 from Pessoa p

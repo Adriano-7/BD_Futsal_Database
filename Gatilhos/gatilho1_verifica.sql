@@ -2,12 +2,22 @@
 .headers on
 .nullvalue NULL
 
-SELECT nome, golosMarcados, golosSofridos, jogosGanhos, jogosEmpatados
-FROM Equipa
-WHERE nome = 'Benfica' or nome = 'SC Braga/AAUM';
+select nomeEquipaVisitada, golosMarcadosVisitado, nomeEquipaVisitante, golosMarcadosVisitante
+from Jogo
+Where idJogo = 199;
 
-INSERT INTO Jogo  VALUES (200, '25/06', 4, 3, 'Benfica', 'SC Braga/AAUM', 215, NULL, 'FINAL');
+select nome, pontuacaoTotal, golosMarcados, golosSofridos, diferencaGolos, jogosGanhos, jogosEmpatados
+from Equipa
+where nome = 'Sporting' or nome = 'Benfica';
 
-SELECT nome, golosMarcados, golosSofridos, jogosGanhos, jogosEmpatados
-FROM Equipa
-WHERE nome = 'Benfica' or nome = 'SC Braga/AAUM';
+UPDATE Jogo
+SET golosMarcadosVisitante = golosMarcadosVisitante + 1
+WHERE idJogo = 199;
+
+select nomeEquipaVisitada, golosMarcadosVisitado, nomeEquipaVisitante, golosMarcadosVisitante
+from Jogo
+Where idJogo = 199;
+
+select nome, pontuacaoTotal, golosMarcados, golosSofridos, diferencaGolos, jogosGanhos, jogosEmpatados
+from Equipa
+where nome = 'Sporting' or nome = 'Benfica';

@@ -2,7 +2,7 @@
 .header on
 .nullvalue NULL
 
---Equipa que marcou pelo menos um golo em todos os jogos em que participou
+-- Equipas que marcaram pelo menos um golo em todos os jogos em que participaram
 
 SELECT nome FROM Equipa 
 WHERE NOT EXISTS (

@@ -2,7 +2,7 @@
 .header on
 .nullvalue NULL
 
---Quantos jogos cada equipa ganhou, perdeu e empatou na fase Regular do campeonato
+--Jogos ganhos, empatados e perdidos por cada equipa na fase regular do campeonato
 
 select e.nome as equipa, 
        sum(case when j.golosMarcadosVisitante > j.golosMarcadosVisitado and e.nome = j.nomeEquipaVisitante then 1 else 0 end) as jogosGanhosRegular,

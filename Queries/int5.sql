@@ -2,7 +2,7 @@
 .header on
 .nullvalue NULL
 
---Equipa mais Jovem e a equipa mais velha do campeonato
+--Equipas com a maior e menor médias de idades do campeonato
 
 select nome, idadeMedia from
 (

@@ -2,7 +2,8 @@
 .header on
 .nullvalue NULL
 
-/*Melhor marcador por Equipa*/
+-- Melhor marcador de cada equipa
+
 select nome, primeiroNome, segundoNome, max(golos) as golos
 from
 (

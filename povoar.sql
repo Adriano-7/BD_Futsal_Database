@@ -423,7 +423,7 @@ INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (127, 20
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (128, 12, 'Guarda-Redes', 'Viseu 2001/Palácio do Gelo');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (129, 30, 'Ala', 'Viseu 2001/Palácio do Gelo');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (130, 66, 'Ala', 'Viseu 2001/Palácio do Gelo');
-INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (131, 30, 'Guarda-Redes', 'Viseu 2001/Palácio do Gelo');
+INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (131, 99, 'Guarda-Redes', 'Viseu 2001/Palácio do Gelo');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (132, 8, 'Fixo', 'Viseu 2001/Palácio do Gelo');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (133, 13, 'Fixo', 'Viseu 2001/Palácio do Gelo');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (134, 23, 'Fixo', 'Viseu 2001/Palácio do Gelo');
@@ -472,7 +472,7 @@ INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (176, 21
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (177, 24, 'Guarda-Redes', 'CR Candoso/Natcal');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (178, 13, 'Fixo', 'CR Candoso/Natcal');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (179, 19, 'Fixo', 'CR Candoso/Natcal');
-INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (180, 21, 'Fixo', 'CR Candoso/Natcal');
+INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (180, 99, 'Fixo', 'CR Candoso/Natcal');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (181, 58, 'Fixo', 'CR Candoso/Natcal');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (182, 20, 'Universal', 'CR Candoso/Natcal');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (183, 22, 'Universal', 'CR Candoso/Natcal');
@@ -496,7 +496,7 @@ INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (201, 2,
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (202, 5, 'Ala', 'FC Azeméis by Noxae');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (203, 11, 'Ala', 'FC Azeméis by Noxae');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (204, 12, 'Ala', 'FC Azeméis by Noxae');
-INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (205, 14, 'Ala', 'FC Azeméis by Noxae');
+INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (205, 99, 'Ala', 'FC Azeméis by Noxae');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (206, 17, 'Ala', 'FC Azeméis by Noxae');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (207, 9, 'Pivot', 'FC Azeméis by Noxae');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (208, 10, 'Pivot', 'FC Azeméis by Noxae');
@@ -505,13 +505,13 @@ INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (226, 1,
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (227, 12, 'Guarda-Redes', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (228, 80, 'Guarda-Redes', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (229, 8, 'Fixo', 'Modicus Cartest');
-INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (230, 80, 'Fixo', 'Modicus Cartest');
+INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (230, 87, 'Fixo', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (231, 6, 'Fixo', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (232, 10, 'Fixo', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (233, 11, 'Ala', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (234, 13, 'Ala', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (235, 5, 'Ala', 'Modicus Cartest');
-INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (236, 8, 'Ala', 'Modicus Cartest');
+INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (236, 83, 'Ala', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (237, 9, 'Ala', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (238, 20, 'Ala', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (239, 24, 'Ala', 'Modicus Cartest');
@@ -520,7 +520,7 @@ INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (241, 70
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (242, 77, 'Ala', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (243, 79, 'Ala', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (244, 7, 'Pivot', 'Modicus Cartest');
-INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (245, 11, 'Pivot', 'Modicus Cartest');
+INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (245, 15, 'Pivot', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (246, 17, 'Pivot', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (247, 60, 'Pivot', 'Modicus Cartest');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (248, 1, 'Guarda-Redes', 'Torreense');
@@ -556,14 +556,14 @@ INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (277, 75
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (278, 8, 'Ala', 'Nun´Álvares');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (279, 9, 'Ala', 'Nun´Álvares');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (280, 15, 'Ala', 'Nun´Álvares');
-INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (281, 7, 'Ala', 'Nun´Álvares');
+INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (281, 95, 'Ala', 'Nun´Álvares');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (282, 10, 'Ala', 'Nun´Álvares');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (283, 11, 'Ala', 'Nun´Álvares');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (284, 17, 'Ala', 'Nun´Álvares');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (285, 20, 'Ala', 'Nun´Álvares');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (286, 77, 'Ala', 'Nun´Álvares');
 INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (287, 12, 'Pivot', 'Nun´Álvares');
-INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (288, 14, 'Pivot', 'Nun´Álvares');
+INSERT INTO Jogador (idJogador, numeroCamisola, posicao, equipa) VALUES (288, 19, 'Pivot', 'Nun´Álvares');
 
 INSERT INTO Treinador (idTreinador, equipa) VALUES (1, 'Sporting');
 INSERT INTO Treinador (idTreinador, equipa) VALUES (2, 'Eléctrico');

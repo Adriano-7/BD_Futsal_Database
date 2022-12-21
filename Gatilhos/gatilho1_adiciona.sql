@@ -1,6 +1,3 @@
-/** I want to create a trigger that will update the table Equipa whenever a new row is inserted into the table Jogo. The trigger should update the fields pontuacaoTotal, golosMarcados, golosSofridos, diferencaGolos, jogosGanhos, jogosEmpatados and jogosPerdidos of the table Equipa. **/
-/** If a team wins it get 3 points, if it loses 0, it its a tie 1 point. **/
-
 PRAGMA foreign_keys = ON;
 
 CREATE TRIGGER gatilho1

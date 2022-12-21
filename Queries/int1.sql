@@ -1,4 +1,5 @@
 /** Quantos golos cada jogador marcou, ordenado por ordem decrescente. **/
+
 .mode columns
 .header on
 .nullvalue NULL
@@ -10,5 +11,3 @@ join  Pessoa p on p.idPessoa = j.idJogador
 where j.idJogador = g.idJogador
 group by p.primeiroNome, p.segundoNome
 order by golosMarcados desc;
-
-

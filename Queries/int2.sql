@@ -33,5 +33,3 @@ from v1
 join v2 on v1.nome = v2.nome
 join v3 on v1.nome = v3.nome
 order by jogosGanhos desc;
-
-

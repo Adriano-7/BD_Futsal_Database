@@ -291,6 +291,7 @@ INSERT INTO Pessoa (idPessoa, primeiroNome, segundoNome, idade, pais) VALUES (28
 INSERT INTO Pessoa (idPessoa, primeiroNome, segundoNome, idade, pais) VALUES (289, 'Mário', 'Silva', 41, 'Portugal');
 INSERT INTO Pessoa (idPessoa, primeiroNome, segundoNome, idade, pais) VALUES (290, 'Eugénio', 'Gonçalves', 40, 'Portugal');
 
+
 INSERT INTO Arbitro (idArbitro, distrito) VALUES (209, 'Aveiro');
 INSERT INTO Arbitro (idArbitro, distrito) VALUES (210, 'Leiria');
 INSERT INTO Arbitro (idArbitro, distrito) VALUES (211, 'Viana do Castelo');

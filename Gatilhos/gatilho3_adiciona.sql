@@ -1,12 +1,10 @@
 PRAGMA foreign_keys = ON;
 
+CREATE TRIGGER gatilho3
 BEFORE INSERT ON Jogador
 FOR EACH ROW
 BEGIN
-    SELECT
-        CASE
-            WHEN (SELECT COUNT(*) FROM Treinador WHERE idTreinador = NEW.idJogador) > 0 OR
-                 (SELECT COUNT(*) FROM Arbitro WHERE idArbitro = NEW.idJogador) > 0 THEN
-                RAISE(ABORT, 'Não é possível inserir um jogador com o mesmo id de um treinador ou árbitro.')
-        END;
+  SELECT RAISE(ABORT, 'Já existe um jogador com o número de camisola ')
+  FROM Jogador
+  WHERE numeroCamisola = NEW.numeroCamisola AND equipa = NEW.equipa;
 END;

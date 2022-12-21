@@ -2,8 +2,13 @@
 .header on
 .nullvalue NULL
 
---Classificação final
+--Quantos jogos cada equipa ganhou, perdeu e empatou na fase Regular do campeonato
 
-SELECT rank() OVER (ORDER BY pontuacaoTotal DESC, diferencaGolos DESC) as position, nome, pontuacaoTotal, jogosGanhos, jogosEmpatados, golosMarcados, golosSofridos, diferencaGolos
-FROM Equipa
-ORDER BY pontuacaoTotal DESC, diferencaGolos DESC;
+select e.nome as equipa, 
+       sum(case when j.golosMarcadosVisitante > j.golosMarcadosVisitado and e.nome = j.nomeEquipaVisitante then 1 else 0 end) as jogosGanhosRegular,
+       sum(case when j.golosMarcadosVisitante < j.golosMarcadosVisitado and e.nome = j.nomeEquipaVisitante then 1 else 0 end) as jogosPerdidosRegular,
+       sum(case when j.golosMarcadosVisitante = j.golosMarcadosVisitado and e.nome = j.nomeEquipaVisitante then 1 else 0 end) as jogosEmpatadosRegular
+from Equipa e
+join Jogo j on e.nome in (j.nomeEquipaVisitante, j.nomeEquipaVisitada)
+where j.fasePlayOff is null
+group by e.nome;

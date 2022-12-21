@@ -1,14 +1,9 @@
-/** Quais os 5 arbitros que arbitraram mais jogos no campeonato **/
-
 .mode columns
 .header on
 .nullvalue NULL
 
-select p.primeiroNome, p.segundoNome, count(j.idJogo) as jogosArbitrados
-from Pessoa p
-join Arbitro a on p.idPessoa = a.idArbitro
-join Jogo j on a.idArbitro = j.arbitro
-group by p.primeiroNome, p.segundoNome
-order by count(j.idJogo) desc
-limit 5;
+--Classificação final
 
+SELECT rank() OVER (ORDER BY pontuacaoTotal DESC, diferencaGolos DESC) as posicao, nome, pontuacaoTotal, jogosGanhos, jogosEmpatados, golosMarcados, golosSofridos, diferencaGolos
+FROM Equipa
+ORDER BY pontuacaoTotal DESC, diferencaGolos DESC;

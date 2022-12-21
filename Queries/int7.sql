@@ -1,9 +1,10 @@
 .mode columns
-.headers on
+.header on
 .nullvalue NULL
 
-/*Quais as 3 equipas que sofreram menos golos na fase regular do campeonato*/
-SELECT nome, golosSofridos
-FROM Equipa
-ORDER BY golosSofridos
-LIMIT 3;
+--Equipa que sofreu menos golos
+
+select nome, golosSofridos
+from Equipa
+order by golosSofridos asc
+limit 1;

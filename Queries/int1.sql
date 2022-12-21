@@ -1,13 +1,16 @@
-/** Quantos golos cada jogador marcou, ordenado por ordem decrescente. **/
-
 .mode columns
 .header on
 .nullvalue NULL
 
-select p.primeiroNome, p.segundoNome, count(g.idGolo) as golosMarcados
-from Jogador j
-join GoloMarcado g on j.idJogador = g.idJogador
-join  Pessoa p on p.idPessoa = j.idJogador
-where j.idJogador = g.idJogador
-group by p.primeiroNome, p.segundoNome
-order by golosMarcados desc;
+/*Melhor marcador por Equipa*/
+select nome, primeiroNome, segundoNome, max(golos) as golos
+from
+(
+select Equipa.nome, Pessoa.primeiroNome, Pessoa.segundoNome ,count(GoloMarcado.idGolo) as golos
+from GoloMarcado
+inner join Jogador on Jogador.idJogador = GoloMarcado.idJogador
+inner join Pessoa on Jogador.idJogador = Pessoa.idPessoa
+inner join Equipa on Jogador.equipa = Equipa.nome
+group by Jogador.idJogador
+)
+GROUP BY nome

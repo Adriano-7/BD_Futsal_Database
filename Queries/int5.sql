@@ -1,14 +1,27 @@
-/**Quantos golos foram marcados em cada pavilhão **/
-
 .mode columns
 .header on
 .nullvalue NULL
 
-select p.nome, count(g.idGolo) as golosMarcados
-from Pavilhao p
-join Equipa e on p.equipa = e.nome
-join Jogo j on e.nome = j.nomeEquipaVisitada
-join GoloMarcado g on j.idJogo = g.idJogo
-group by p.nome
-order by golosMarcados desc;
+--Equipa mais Jovem e a equipa mais velha do campeonato
 
+select nome, idadeMedia from
+(
+select e.nome, round(avg(p.idade),1) as idadeMedia
+from Equipa e
+join Jogador j on e.nome = j.equipa
+join Pessoa p on p.idPessoa = j.idJogador
+group by e.nome
+order by idadeMedia asc
+limit 1
+)
+union
+select nome, idadeMedia from
+(
+select e.nome, round(avg(p.idade),1) as idadeMedia
+from Equipa e
+join Jogador j on e.nome = j.equipa
+join Pessoa p on p.idPessoa = j.idJogador
+group by e.nome
+order by idadeMedia desc
+limit 1
+);

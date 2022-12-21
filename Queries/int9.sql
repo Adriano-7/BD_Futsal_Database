@@ -2,7 +2,12 @@
 .header on
 .nullvalue NULL
 
-/*Maior diferença de golos num jogo entre as duas equipas*/
-select (select max(golosMarcadosVisitante - golosMarcadosVisitado) from Jogo) as dg, nomeEquipaVisitante, golosMarcadosVisitante, nomeEquipaVisitada, golosMarcadosVisitado
-from Jogo
-where golosMarcadosVisitante - golosMarcadosVisitado = (select max(golosMarcadosVisitante - golosMarcadosVisitado) from Jogo);
+/**Quantos golos foram marcados em cada pavilhão **/
+
+select p.nome, count(g.idGolo) as golosMarcados
+from Pavilhao p
+join Equipa e on p.equipa = e.nome
+join Jogo j on e.nome = j.nomeEquipaVisitada
+join GoloMarcado g on j.idJogo = g.idJogo
+group by p.nome
+order by golosMarcados desc;
